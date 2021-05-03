@@ -21,7 +21,7 @@ export default class Portfolio extends Component {
             
                 <div className="column folio-item">
                     <a href="#modal-01" className="folio-item__thumb">
-                        <img src="./images/portfolio/droplet.jpg" srcset="/images/portfolio/droplet.jpg 1x, images/portfolio/droplet@2x.jpg 2x"/>
+                        <img src={Modal1}/>
                     </a>
                 </div> {/* end folio-item */}
 
