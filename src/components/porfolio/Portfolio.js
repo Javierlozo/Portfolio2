@@ -21,25 +21,25 @@ export default class Portfolio extends Component {
             
                 <div className="column folio-item">
                     <a href="#modal-01" className="folio-item__thumb">
-                        <img src={Modal1}/>
+                        <img src="images/portfolio/droplet.jpg" srcset="images/portfolio/droplet.jpg 1x, images/portfolio/droplet@2x.jpg 2x" alt=""/>
                     </a>
                 </div> {/* end folio-item */}
 
                 <div className="column folio-item">
                     <a href="#modal-02" className="folio-item__thumb">
-                        <img src={Modal2}/>
+                        <img src="images/portfolio/lamp.jpg" srcset="images/portfolio/lamp.jpg 1x, images/portfolio/lamp@2x.jpg 2x" alt=""/>
                     </a>
                 </div> {/* end folio-item */}
 
                 <div className="column folio-item">
                     <a href="#modal-03" className="folio-item__thumb">
-                        <img src={Modal3}/>
+                        <img src="images/portfolio/minimalismo.jpg" srcset="images/portfolio/minimalismo.jpg 1x, images/portfolio/minimalismo@2x.jpg 2x" alt=""/>
                     </a>
                 </div> {/* end folio-item */}
 
                 <div className="column folio-item">
                     <a href="#modal-04" className="folio-item__thumb">
-                        <img src={Modal4}/>
+                    <img src="images/portfolio/shutterbug.jpg" srcset="images/portfolio/shutterbug.jpg 1x, images/portfolio/shutterbug@2x.jpg 2x" alt=""/>
                     </a>
                 </div> {/* end folio-item */}
             </div> {/* end folio-list */}

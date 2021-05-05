@@ -13,7 +13,7 @@ export default class Resume extends Component {
                                 <p>
                                 </p>
                                 <ul className="skills">
-                                    <a href="#0"><i className="fab fa-html5" aria-hidden="true" /></a>
+                                    <a href="https://html.com/"><i className="fab fa-html5" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-css3" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-js-square" aria-hidden="true" /></a>
                                     <a href="#0"><i className="fab fa-react" aria-hidden="true" /></a>
