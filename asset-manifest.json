@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio2/static/css/main.cd184427.chunk.css",
-    "main.js": "/Portfolio2/static/js/main.0ec0e0ab.chunk.js",
-    "main.js.map": "/Portfolio2/static/js/main.0ec0e0ab.chunk.js.map",
+    "main.js": "/Portfolio2/static/js/main.e01c5326.chunk.js",
+    "main.js.map": "/Portfolio2/static/js/main.e01c5326.chunk.js.map",
     "runtime-main.js": "/Portfolio2/static/js/runtime-main.3c4648f3.js",
     "runtime-main.js.map": "/Portfolio2/static/js/runtime-main.3c4648f3.js.map",
     "static/js/2.142c61e8.chunk.js": "/Portfolio2/static/js/2.142c61e8.chunk.js",
@@ -16,13 +16,12 @@
     "static/media/droplet.31241d98.jpg": "/Portfolio2/static/media/droplet.31241d98.jpg",
     "static/media/styles.css": "/Portfolio2/static/media/picture1.ccf1a32b.jpg",
     "static/media/lamp.97aaf9dd.jpg": "/Portfolio2/static/media/lamp.97aaf9dd.jpg",
-    "static/media/minimalismo.2f09a647.jpg": "/Portfolio2/static/media/minimalismo.2f09a647.jpg",
     "static/media/user-002.29c8584a.jpeg": "/Portfolio2/static/media/user-002.29c8584a.jpeg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c4648f3.js",
     "static/js/2.142c61e8.chunk.js",
     "static/css/main.cd184427.chunk.css",
-    "static/js/main.0ec0e0ab.chunk.js"
+    "static/js/main.e01c5326.chunk.js"
   ]
 }
