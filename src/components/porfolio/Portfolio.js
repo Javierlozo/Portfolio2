@@ -26,6 +26,7 @@ export default class Portfolio extends Component {
                 </a>
               </div>
             </div>
+
          </section>
       </React.Fragment>
     );

@@ -6,13 +6,13 @@ export default class Contact extends Component {
         <section id="contact" className="s-contact target-section">
         <div className="row s-contact__header">
             <div className="column large-12">
-            <h3 className="section-header-allcaps">Contact Me!</h3>
+            <h3 className="section-header-allcaps">Contact Me</h3>
             </div>
         </div>
         <div className="row s-contact__content">
             <div className="column large-7 medium-12">
             <h8 className="huge-text">
-                Have a new project in mind? Let's turn that idea to an even greater product :)
+                Do you have a new project in mind? Let's turn that idea to a great product
             </h8>
             </div>
             <div className="column large-4 medium-12">
@@ -23,7 +23,7 @@ export default class Contact extends Component {
                     Email
                     </h5>
                     <p className="contact-block__content">
-                    <a className="mailtoui" href="mailto:sayhello@ceevee.com">luisloart@gmail.com</a>
+                    <a className="mailtoui" href="mailto:luisloart@gmail.com">luisloart@gmail.com</a>
                     </p>
                 </div> {/* end contact-block */}
                 </div>
@@ -33,12 +33,12 @@ export default class Contact extends Component {
                     Phone
                     </h5>
                     <p className="contact-block__content">
-                    <a href="tel:+1975432345">(864) 365 7897</a>
+                    <a href="tel:+18643657897">(864) 365 7897</a>
                     </p>
                 </div> {/* end contact-block */}
                 </div>
                 <div className="column large-12">
-                <a href="mailto:sayhello@ceevee.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>
+                <a href="mailto:luisloart@gmail.com" className="mailtoui btn btn--primary h-full-width">Let's Talk</a>
                 </div>
             </div> {/* end contact-infos */}
             </div>
